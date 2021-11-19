@@ -21,3 +21,5 @@ print(ab)
 n = b[::, 1]
 print(n)
 
+m = b[1,2:3:1]
+print(m)
