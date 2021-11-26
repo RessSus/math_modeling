@@ -1,4 +1,4 @@
-import lec_3_task_1 as gp
+import lab_3_task_1 as gp
 import numpy as np
 b = 30
 ha = 100

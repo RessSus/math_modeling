@@ -1,5 +1,5 @@
 import numpy as np
-from lec_3_task_1 import g
+from lab_3_task_1 import g
 xn = int(input())
 yn = int(input())
 vn = int(input())
