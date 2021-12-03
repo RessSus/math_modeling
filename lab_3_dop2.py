@@ -5,10 +5,11 @@ for i in range(4):
 print(a)
 b = int(input('Позиция '))
 c = int(input('Значение '))
-sus = 5 - b
-for i in range(sus):
+sus = 5 - (b+1)
+for i in range(sus, 0, -1):
   if sus == 1:
     a[4] = c
   else:
-    a[] = a[] 
+    a[b+i] = a[b]
+    a[b] = c
 print(a)    
