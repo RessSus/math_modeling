@@ -5,7 +5,10 @@ for i in range(4):
 print(a)
 b = int(input('Позиция '))
 c = int(input('Значение '))
-for i in range(5):
-  if i = b:
-    a[i] = c
-    
+sus = 5 - b
+for i in range(sus):
+  if sus == 1:
+    a[4] = c
+  else:
+    a[] = a[] 
+print(a)    
