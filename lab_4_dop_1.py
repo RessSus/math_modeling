@@ -1,9 +1,7 @@
-a = 0
-n = 0
+a = int(input()) 
+n = int(input()) 
 
 def step(a, n):
-  a = int(input()) 
-  n = int(input()) 
   ax = a 
   for i in range(n-1):
     ax = ax * a
