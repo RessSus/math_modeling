@@ -1,4 +1,4 @@
-a = int(input()) 
+a = float(input()) 
 n = int(input()) 
 
 def step(a, n):
